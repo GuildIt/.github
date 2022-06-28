@@ -10,7 +10,7 @@
 
 <h1 align="center">GuildIt</h1>
 <p align="center">
-  <b>The Elegant, Simple Guild Automation Solution</b>
+  <b>The Elegant and Simple Guild Automation Solution</b>
 </p>
 
 <p align="center">

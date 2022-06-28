@@ -3,7 +3,7 @@
       <img
         alt="Uh oh! This image didn't load, please report this issue in the Issues tab of this repository."
         width="175"
-        src="../res/img/GuildIt.png"
+        src="https://github.com/GuildIt/.github/raw/212f56b3df994d66cfb56b8ea484858fd371d2de/res/img/GuildIt.png"
       />
     </a>
 </p>

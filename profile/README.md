@@ -13,11 +13,14 @@
   <b>The Elegant, Simple Guild Automation Solution</b>
 </p>
 
-> **:warning: Under construction**  
-> GuildIt is in early alpha, and is not production ready yet. Use at your own risk.
-
-GuildIt is a flexible, elegant, automated, and simple solution for all of your guild's needs!
+<p align="center">
+    GuildIt is a flexible, elegant, automated, and simple solution for all of your guild's needs!
+</p>
 
 -----
 
-[Visit the GuildIt guide to learn more](https://guildit.github.io)
+<p align="center">
+    <a href="https://guildit.github.io">
+      Visit the GuildIt guide to learn more
+    </a>
+</p>
